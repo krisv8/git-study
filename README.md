@@ -1,2 +1,2 @@
 # git-study
-For study purpose
+For study purpose on Devops
